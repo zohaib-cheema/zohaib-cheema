@@ -4,7 +4,7 @@
 
 #### Want to dive deeper into my work and journey? Here’s how you can learn more:
 
-- **Personal Website:** [Explore Zohaib's Portfolio](https://www.linkedin.com/in/zohaibsafdarcheema/)
+- **Personal Website:** [Explore Zohaib's Portfolio](https://www.zohaibcheema.com)
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/zohaibsafdarcheema/)
 - **Social Media & More:** [Check out my LinkTree](https://linktr.ee/zohaib_cheema)
 
