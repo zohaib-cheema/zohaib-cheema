@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zohaib (Zo-hey👋-b)<h1>
+# Hi, I'm Zohaib (Zo-hey👋-b)
 
 - 🔗 Portfolio: [Visit Website](https://www.zohaibcheema.com)
 - 🧑‍🎓 CS @ Bucknell • Applied Math minor | Prev SWE Intern @ Uber
