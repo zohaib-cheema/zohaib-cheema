@@ -10,19 +10,19 @@
 
 ## 🚀 Projects
 
-- 🟣 **AwareNest** – study assistant for Bucknell CS courses using RAG + a React frontend  
+- **AwareNest** – study assistant for Bucknell CS courses using RAG + a React frontend  
   `React` · `TypeScript` · `Node.js` · `PostgreSQL`  
-  [Repo](https://github.com/your-username/awar enest)
+  [Repo](https://github.com/your-username/awarenest)
 
-- 🟡 **PayPie** – full-stack receipt-splitting app (Next.js API routes, Firebase, Tailwind)  
+- **PayPie** – full-stack receipt-splitting app (Next.js API routes, Firebase, Tailwind)  
   `Next.js` · `TypeScript` · `Firebase` · `Tailwind CSS`  
   [Repo](https://github.com/your-username/paypie)
 
-- 🟦 **DeFacto** – analytics/data project showing reporting + Python/SQL skills  
+- **DeFacto** – analytics/data project showing reporting + Python/SQL skills  
   `Python` · `Pandas` · `SQL` · `Tableau/Power BI`  
   [Repo](https://github.com/your-username/defacto)
 
-- 🟢 **Voluntr** – mobile app to match students with local volunteering events  
+- **Voluntr** – mobile app to match students with local volunteering events  
   `SwiftUI` · `MapKit` · `Firebase`  
   [Repo](https://github.com/your-username/voluntr)
 
@@ -30,42 +30,48 @@
 
 ## 🛠️ Tech Stack
 
-### 🧩 Full-Stack / Web
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="42" height="42"/>
-  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" width="42" height="42"/>
+
+## 🛠️ Tech Stack
+
+<!-- full-stack -->
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" height="42" />
 </p>
 
-### 🤖 AI / LLM / Cloud (what i’ve been experimenting with)
-<p align="left">
-  <img src="https://www.svgrepo.com/show/448266/amazon-web-services.svg" alt="aws" width="42" height="42"/>
-  <img src="https://www.svgrepo.com/show/452192/openai.svg" alt="openai" width="42" height="42"/>
-  <img src="https://www.svgrepo.com/show/452963/chatgpt.svg" alt="llm" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="42" height="42"/>
+<!-- styling -->
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" />
 </p>
 
-### 📊 Data / Analytics
-<p align="left">
-  <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="42" height="42"/>
-  <img src="https://www.svgrepo.com/show/373554/powerbi.svg" alt="powerbi" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="42" height="42"/>
+<!-- db / backend services -->
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="42" height="42" />
 </p>
 
-### ⚙️ Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="42" height="42"/>
+<!-- ai / cloud -->
+<p>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="42" height="42" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="42" height="42" />
+</p>
+
+<!-- tools -->
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" />
 </p>
 
 ---
