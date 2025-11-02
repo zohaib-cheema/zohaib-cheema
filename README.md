@@ -1,6 +1,6 @@
-# ✨ Hi, I'm Zohaib (Zo-hey👋-b)
+<h1>Hi, I'm Zohaib (Zo-hey👋-b)<h1>
 
-- 🔗 Portfolio: [www.zohaibcheema.com](https://www.zohaibcheema.com)
+- 🔗 Portfolio: [Visit Website](https://www.zohaibcheema.com)
 - 🧑‍🎓 CS @ Bucknell • Applied Math minor | Prev SWE Intern @ Uber
 - 💻 Full-stack engineer (Next.js / React / TypeScript / Node.js / PostgreSQL)
 - 🤖 Also building AI/RAG products on AWS Bedrock & OpenAI
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Projects
+<h2>Projects</h2>
 
 - **AwareNest** – study assistant for Bucknell CS courses using RAG + a React frontend  
   `React` · `TypeScript` · `Node.js` · `PostgreSQL`  
@@ -28,55 +28,15 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2>Tech Stack</h2>
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,react,nextjs,html,css,sass,tailwind)](https://skillicons.dev)
 
-## 🛠️ Tech Stack
-
-<!-- full-stack -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" height="42" />
-</p>
-
-<!-- styling -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" />
-</p>
-
-<!-- db / backend services -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="42" height="42" />
-</p>
-
-<!-- ai / cloud -->
-<p>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="42" height="42" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="42" height="42" />
-</p>
-
-<!-- tools -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,jest,postman,git,figma,vscode)](https://skillicons.dev)
 
 ---
 
-## 📫 Connect
+<h2>Connect</h2>
 
 - 💼 [LinkedIn](https://linkedin.com/in/zohaibsafdarcheema)
 - 🌐 [Portfolio](https://www.zohaibcheema.com)
