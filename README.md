@@ -10,7 +10,7 @@
 
 <h2>Projects</h2>
 
-- **AwareNest** – mental health app to help track and analyze emotional well-being (Flutter, C++, MySQL)
+- **AwareNest** – mental health app to help track and analyze emotional well-being (Flutter, C++, MySQL)  
   `React` · `TypeScript` · `Node.js` · `PostgreSQL`  
   [Repo](https://github.com/zohaib-cheema/AwareNest)
 
