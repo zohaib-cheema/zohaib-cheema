@@ -4,7 +4,7 @@
 - 🧑‍🎓 CS @ Bucknell • Applied Math minor | Prev SWE Intern @ Uber
 - 💻 Full-stack engineer (Next.js / React / TypeScript / Node.js / PostgreSQL)
 - 🤖 Also building AI/RAG products on AWS Bedrock & OpenAI
-- ✉️ [zscheema9@gmail.com](mailto:zscheema9@gmail.com) • [LinkedIn](https://linkedin.com/in/zohaibsafdarcheema)
+- ✉️ [zohaib.s.cheema9@gmail.com](mailto:zohaib.s.cheema9@gmail.com) • [LinkedIn](https://linkedin.com/in/zohaibsafdarcheema)
 
 ---
 
@@ -12,27 +12,40 @@
 
 - **AwareNest** – study assistant for Bucknell CS courses using RAG + a React frontend  
   `React` · `TypeScript` · `Node.js` · `PostgreSQL`  
-  [Repo](https://github.com/your-username/awarenest)
+  [Repo](https://github.com/zohaib-cheema/AwareNest)
 
 - **PayPie** – full-stack receipt-splitting app (Next.js API routes, Firebase, Tailwind)  
   `Next.js` · `TypeScript` · `Firebase` · `Tailwind CSS`  
-  [Repo](https://github.com/your-username/paypie)
+  [Repo](https://github.com/zohaib-cheema/PayPie)
 
 - **DeFacto** – analytics/data project showing reporting + Python/SQL skills  
   `Python` · `Pandas` · `SQL` · `Tableau/Power BI`  
-  [Repo](https://github.com/your-username/defacto)
+  [Repo](https://github.com/zohaib-cheema/DeFacto)
 
 - **Voluntr** – mobile app to match students with local volunteering events  
   `SwiftUI` · `MapKit` · `Firebase`  
-  [Repo](https://github.com/your-username/voluntr)
+  [Repo](https://github.com/zohaib-cheema/Voluntr)
 
 ---
 
 <h2>Tech Stack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,react,nextjs,html,css,sass,tailwind)](https://skillicons.dev)
+<!-- Frontend -->
+[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,react,nextjs,html,css,sass,tailwind&perline=10)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,jest,postman,git,figma,vscode)](https://skillicons.dev)
+<!-- Backend & Tools -->
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,jest,postman,git,figma,vscode&perline=10)](https://skillicons.dev)
+
+<!-- OPTIONAL: Uncomment any of these extra rows -->
+
+<!-- Databases / Auth / Hosting -->
+[![My Skills](https://skillicons.dev/icons?i=postgres,supabase,sqlite,vercel,netlify,aws,docker&perline=10)](https://skillicons.dev)
+
+<!-- Testing / Dev -->
+[![My Skills](https://skillicons.dev/icons?i=playwright,cypress,storybook,githubactions,bash,linux&perline=10)](https://skillicons.dev)
+
+<!-- Languages / Frameworks you also use -->
+[![My Skills](https://skillicons.dev/icons?i=python,java,go,C&perline=10)](https://skillicons.dev)
 
 ---
 
@@ -40,7 +53,7 @@
 
 - 💼 [LinkedIn](https://linkedin.com/in/zohaibsafdarcheema)
 - 🌐 [Portfolio](https://www.zohaibcheema.com)
-- 📧 [zscheema9@gmail.com](mailto:zscheema9@gmail.com)
+- 📧 [zohaib.s.cheema9@gmail.com](mailto:zohaib.s.cheema9@gmail.com)
 
 ---
 
