@@ -30,19 +30,19 @@
 
 ## Tech Stack</h2>
 
-Frontend
+**Frontend**
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vue,angular,react,nextjs,flutter,html,css,sass,tailwind&perline=10)](https://skillicons.dev)
 
-Backend & Tools
+**Backend & Tools**
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,flask,kafka,jest,postman,git,figma,idea,vscode&perline=10)](https://skillicons.dev)
 
-Databases / Auth / Hosting
+**Databases / Auth / Hosting**
 [![My Skills](https://skillicons.dev/icons?i=postgres,supabase,mysql,vercel,netlify,aws,gcp,azure,vue,docker&perline=10)](https://skillicons.dev)
 
-Testing / Dev
+**Testing / Dev**
 [![My Skills](https://skillicons.dev/icons?i=cypress,githubactions,bash,linux,gradle,vim,emacs&perline=10)](https://skillicons.dev)
 
-Languages / Frameworks
+**Languages / Frameworks**
 [![My Skills](https://skillicons.dev/icons?i=python,go,java,c&perline=10)](https://skillicons.dev)
 
 ---
