@@ -30,30 +30,20 @@
 
 ## Tech Stack</h2>
 
-### Frontend
-<p>
+### Frontend \
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vue,angular,react,nextjs,flutter,html,css,sass,tailwind&perline=10)](https://skillicons.dev)
-<p>
   
-### Backend & Tools
-<p>
+### Backend & Tools \
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,flask,kafka,jest,postman,git,figma,idea,vscode&perline=10)](https://skillicons.dev)
-<p>
   
-### Databases / Auth / Hosting
-<p>
+### Databases / Auth / Hosting \
 [![My Skills](https://skillicons.dev/icons?i=postgres,supabase,mysql,vercel,netlify,aws,gcp,azure,vue,docker&perline=10)](https://skillicons.dev)
-<p>
   
-### Testing / Dev
-<p>
+### Testing / Dev \
 [![My Skills](https://skillicons.dev/icons?i=cypress,githubactions,bash,linux,gradle,vim,emacs&perline=10)](https://skillicons.dev)
-<p>
   
-### Languages / Frameworks
-<p>
+### Languages / Frameworks \
 [![My Skills](https://skillicons.dev/icons?i=python,go,java,c&perline=10)](https://skillicons.dev)
-<p>
   
 ---
 
