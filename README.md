@@ -31,21 +31,19 @@
 <h2>Tech Stack</h2>
 
 <!-- Frontend -->
-[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,react,nextjs,html,css,sass,tailwind&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,angular,react,nextjs,flutter,html,css,sass,tailwind&perline=10)](https://skillicons.dev)
 
 <!-- Backend & Tools -->
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,jest,postman,git,figma,vscode&perline=10)](https://skillicons.dev)
-
-<!-- OPTIONAL: Uncomment any of these extra rows -->
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,flask,kafka,jest,postman,git,figma,idea,vscode&perline=10)](https://skillicons.dev)
 
 <!-- Databases / Auth / Hosting -->
-[![My Skills](https://skillicons.dev/icons?i=postgres,supabase,sqlite,vercel,netlify,aws,docker&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,supabase,mysql,vercel,netlify,aws,oracle,azure,vue,docker&perline=10)](https://skillicons.dev)
 
 <!-- Testing / Dev -->
-[![My Skills](https://skillicons.dev/icons?i=playwright,cypress,storybook,githubactions,bash,linux&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cypress,githubactions,bash,linux,gradle,vim,emacs&perline=10)](https://skillicons.dev)
 
 <!-- Languages / Frameworks you also use -->
-[![My Skills](https://skillicons.dev/icons?i=python,java,go,C&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,java,c&perline=10)](https://skillicons.dev)
 
 ---
 
