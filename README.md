@@ -30,21 +30,31 @@
 
 ## Tech Stack</h2>
 
-**Frontend**
+###Frontend
+<p>
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vue,angular,react,nextjs,flutter,html,css,sass,tailwind&perline=10)](https://skillicons.dev)
-
-**Backend & Tools**
+<p>
+  
+###Backend & Tools
+<p>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,flask,kafka,jest,postman,git,figma,idea,vscode&perline=10)](https://skillicons.dev)
-
-**Databases / Auth / Hosting**
+<p>
+  
+###Databases / Auth / Hosting
+<p>
 [![My Skills](https://skillicons.dev/icons?i=postgres,supabase,mysql,vercel,netlify,aws,gcp,azure,vue,docker&perline=10)](https://skillicons.dev)
-
-**Testing / Dev**
+<p>
+  
+###Testing / Dev
+<p>
 [![My Skills](https://skillicons.dev/icons?i=cypress,githubactions,bash,linux,gradle,vim,emacs&perline=10)](https://skillicons.dev)
-
-**Languages / Frameworks**
+<p>
+  
+###Languages / Frameworks
+<p>
 [![My Skills](https://skillicons.dev/icons?i=python,go,java,c&perline=10)](https://skillicons.dev)
-
+<p>
+  
 ---
 
 <h2>Connect</h2>
