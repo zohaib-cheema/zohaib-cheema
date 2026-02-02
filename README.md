@@ -53,7 +53,7 @@
 
 - 💼 [LinkedIn](https://linkedin.com/in/zohaibsafdarcheema)
 - 🌐 [Portfolio](https://www.zohaibcheema.com)
-- 📧 [zohaib.s.cheema9@gmail.com](mailto:zohaib.s.cheema9@gmail.com)
+- 📧 [zscheema9@gmail.com](mailto:zscheema9@gmail.com)
 
 ---
 
