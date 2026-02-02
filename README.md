@@ -1,9 +1,11 @@
-# Hi, I'm Zohaib (Zo-hey👋-b)
+# Hi, I'm Zohaib (Zo-hey👋-b), I'm always trying to explore and learn new tech!
 
 - 🔗 Portfolio: [Visit Website](https://www.zohaibcheema.com)
 - 🧑‍🎓 Currently CS Master's @ Queens College, NYC | CS Bachelor's @ Bucknell, Lewisburg | Prev SWE Intern @ Uber
-- 💻 Full-stack engineer (Next.js / React / TypeScript / Node.js / PostgreSQL)
-- 🤖 Also building AI/RAG products on AWS Bedrock & OpenAI
+- 💻 Tech-stack:
+      - Full-Stack (MERN) + AI: React/Next, Node/Express, Mongo/Postgres, RAG + LLM APIs
+      - Product Full-Stack: Next.js, TypeScript, Node, Postgres, Supabase, CI/CD
+      - Full-Stack + Cloud: React, Node, Postgres, AWS, Docker
 - ✉️ [zscheema9@gmail.com](mailto:zscheema9@gmail.com) • [LinkedIn](https://linkedin.com/in/zohaibsafdarcheema)
 
 ---
