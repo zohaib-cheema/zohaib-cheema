@@ -1,7 +1,7 @@
 # Hi, I'm Zohaib (Zo-hey👋-b)
 
 - 🔗 Portfolio: [Visit Website](https://www.zohaibcheema.com)
-- 🧑‍🎓 CS @ Bucknell | Prev SWE Intern @ Uber
+- 🧑‍🎓 CS Master's @ Queens College | CS Bachelor's @ Bucknell | Prev SWE Intern @ Uber
 - 💻 Full-stack engineer (Next.js / React / TypeScript / Node.js / PostgreSQL)
 - 🤖 Also building AI/RAG products on AWS Bedrock & OpenAI
 - ✉️ [zohaib.s.cheema9@gmail.com](mailto:zohaib.s.cheema9@gmail.com) • [LinkedIn](https://linkedin.com/in/zohaibsafdarcheema)
