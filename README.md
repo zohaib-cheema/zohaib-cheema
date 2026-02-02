@@ -2,10 +2,12 @@
 
 - 🔗 Portfolio: [Visit Website](https://www.zohaibcheema.com)
 - 🧑‍🎓 Currently CS Master's @ Queens College, NYC | CS Bachelor's @ Bucknell, Lewisburg | Prev SWE Intern @ Uber
-- 💻 Tech-stack:
-      -- Full-Stack (MERN) + AI: React/Next, Node/Express, Mongo/Postgres, RAG + LLM APIs
-      -- Product Full-Stack: Next.js, TypeScript, Node, Postgres, Supabase, CI/CD
-      -- Full-Stack + Cloud: React, Node, Postgres, AWS, Docker
+
+- 💻 Tech Stack:
+  - **Full-Stack (MERN) + AI:** `React` · `Next.js` · `Node.js` · `Express` · `MongoDB` · `PostgreSQL` · `RAG` · `LLM APIs`
+  - **Product Full-Stack:** `Next.js` · `TypeScript` · `Node.js` · `PostgreSQL` · `Supabase` · `CI/CD`
+  - **Full-Stack + Cloud:** `React` · `Node.js` · `PostgreSQL` · `AWS` · `Docker`
+
 - ✉️ [zscheema9@gmail.com](mailto:zscheema9@gmail.com) • [LinkedIn](https://linkedin.com/in/zohaibsafdarcheema)
 
 ---
