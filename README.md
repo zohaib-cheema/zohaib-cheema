@@ -4,7 +4,7 @@
 - 🧑‍🎓 CS Master's @ Queens College, NYC | CS Bachelor's @ Bucknell, Lewisburg | Prev SWE Intern @ Uber
 - 💻 Full-stack engineer (Next.js / React / TypeScript / Node.js / PostgreSQL)
 - 🤖 Also building AI/RAG products on AWS Bedrock & OpenAI
-- ✉️ [zohaib.s.cheema9@gmail.com](mailto:zohaib.s.cheema9@gmail.com) • [LinkedIn](https://linkedin.com/in/zohaibsafdarcheema)
+- ✉️ [zscheema9@gmail.com](mailto:zscheema9@gmail.com) • [LinkedIn](https://linkedin.com/in/zohaibsafdarcheema)
 
 ---
 
