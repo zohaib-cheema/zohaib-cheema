@@ -1,0 +1,1006 @@
+{
+  "owner": "zohaib-cheema",
+  "generated_at": "2026-11-03T00:20:32.728623+00:00",
+  "scope": "Public owned repositories, excluding forks",
+  "method": "Local source estimate over GitHub baseline",
+  "local_estimate": true,
+  "repository_count": 31,
+  "total_bytes": 1129164,
+  "largest_language": "Python",
+  "languages": [
+    {
+      "name": "Python",
+      "bytes": 202006,
+      "percent": 17.889872507447986
+    },
+    {
+      "name": "Swift",
+      "bytes": 189692,
+      "percent": 16.799331186612395
+    },
+    {
+      "name": "HTML",
+      "bytes": 187473,
+      "percent": 16.602814117346995
+    },
+    {
+      "name": "TypeScript",
+      "bytes": 116659,
+      "percent": 10.331448753236907
+    },
+    {
+      "name": "Dart",
+      "bytes": 103640,
+      "percent": 9.178471860597751
+    },
+    {
+      "name": "R",
+      "bytes": 72816,
+      "percent": 6.448664675813257
+    },
+    {
+      "name": "Java",
+      "bytes": 63704,
+      "percent": 5.641695980389031
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 52649,
+      "percent": 4.662653077852287
+    },
+    {
+      "name": "C++",
+      "bytes": 47237,
+      "percent": 4.183360433028329
+    },
+    {
+      "name": "CSS",
+      "bytes": 35374,
+      "percent": 3.132760165928067
+    },
+    {
+      "name": "SQL",
+      "bytes": 34234,
+      "percent": 3.0318005179052823
+    },
+    {
+      "name": "CMake",
+      "bytes": 9020,
+      "percent": 0.7988210747065971
+    },
+    {
+      "name": "Shell",
+      "bytes": 5557,
+      "percent": 0.49213400356369846
+    },
+    {
+      "name": "Jupyter Notebook",
+      "bytes": 4962,
+      "percent": 0.4394401521833852
+    },
+    {
+      "name": "EJS",
+      "bytes": 3175,
+      "percent": 0.2811814758529319
+    },
+    {
+      "name": "C",
+      "bytes": 729,
+      "percent": 0.0645610380777283
+    },
+    {
+      "name": "Kotlin",
+      "bytes": 116,
+      "percent": 0.010273086991792158
+    },
+    {
+      "name": "Dockerfile",
+      "bytes": 105,
+      "percent": 0.00929891494946704
+    },
+    {
+      "name": "Procfile",
+      "bytes": 16,
+      "percent": 0.0014169775161092632
+    }
+  ],
+  "repositories": [
+    {
+      "name": "AwareNest",
+      "fork": false,
+      "languages": {
+        "Jupyter Notebook": 4962,
+        "Kotlin": 116,
+        "JavaScript": 17502,
+        "Swift": 979,
+        "C": 729,
+        "Dart": 103640,
+        "CMake": 9020,
+        "C++": 5348,
+        "Python": 19947,
+        "HTML": 529,
+        "TypeScript": 19115,
+        "CSS": 10235
+      },
+      "local_review": {
+        "languages": {
+          "Jupyter Notebook": 4962,
+          "Kotlin": 116,
+          "JavaScript": 17502,
+          "Swift": 979,
+          "C": 729,
+          "Dart": 103640,
+          "CMake": 9020,
+          "C++": 5348,
+          "Python": 19947,
+          "HTML": 529,
+          "TypeScript": 19115,
+          "CSS": 10235
+        },
+        "excluded": [],
+        "sources": [
+          {
+            "path": "New_Chatbot.ipynb",
+            "language": "Jupyter Notebook",
+            "bytes": 4962
+          },
+          {
+            "path": "android/app/src/main/kotlin/com/example/lsd/MainActivity.kt",
+            "language": "Kotlin",
+            "bytes": 116
+          },
+          {
+            "path": "backend/app.js",
+            "language": "JavaScript",
+            "bytes": 9507
+          },
+          {
+            "path": "backend/server.js",
+            "language": "JavaScript",
+            "bytes": 1250
+          },
+          {
+            "path": "backend/test/journal.test.js",
+            "language": "JavaScript",
+            "bytes": 6745
+          },
+          {
+            "path": "ios/Runner/AppDelegate.swift",
+            "language": "Swift",
+            "bytes": 404
+          },
+          {
+            "path": "ios/Runner/Runner-Bridging-Header.h",
+            "language": "C",
+            "bytes": 38
+          },
+          {
+            "path": "ios/RunnerTests/RunnerTests.swift",
+            "language": "Swift",
+            "bytes": 285
+          },
+          {
+            "path": "lib/firebase_options.dart",
+            "language": "Dart",
+            "bytes": 2946
+          },
+          {
+            "path": "lib/main.dart",
+            "language": "Dart",
+            "bytes": 6301
+          },
+          {
+            "path": "lib/screens/addFriend.dart",
+            "language": "Dart",
+            "bytes": 3403
+          },
+          {
+            "path": "lib/screens/api.dart",
+            "language": "Dart",
+            "bytes": 3628
+          },
+          {
+            "path": "lib/screens/cammertest.dart",
+            "language": "Dart",
+            "bytes": 0
+          },
+          {
+            "path": "lib/screens/community.dart",
+            "language": "Dart",
+            "bytes": 323
+          },
+          {
+            "path": "lib/screens/dashboard.dart",
+            "language": "Dart",
+            "bytes": 1807
+          },
+          {
+            "path": "lib/screens/emergency.dart",
+            "language": "Dart",
+            "bytes": 14237
+          },
+          {
+            "path": "lib/screens/home.dart",
+            "language": "Dart",
+            "bytes": 9158
+          },
+          {
+            "path": "lib/screens/incidentReoprting.dart",
+            "language": "Dart",
+            "bytes": 4377
+          },
+          {
+            "path": "lib/screens/location.dart",
+            "language": "Dart",
+            "bytes": 2464
+          },
+          {
+            "path": "lib/screens/login.dart",
+            "language": "Dart",
+            "bytes": 10755
+          },
+          {
+            "path": "lib/screens/notification.dart",
+            "language": "Dart",
+            "bytes": 2385
+          },
+          {
+            "path": "lib/screens/protected_data_screen.dart",
+            "language": "Dart",
+            "bytes": 620
+          },
+          {
+            "path": "lib/screens/realtimeMonitoring.dart",
+            "language": "Dart",
+            "bytes": 2221
+          },
+          {
+            "path": "lib/screens/schedule.dart",
+            "language": "Dart",
+            "bytes": 2487
+          },
+          {
+            "path": "lib/screens/signUp.dart",
+            "language": "Dart",
+            "bytes": 21695
+          },
+          {
+            "path": "lib/screens/temp.dart",
+            "language": "Dart",
+            "bytes": 14833
+          },
+          {
+            "path": "linux/CMakeLists.txt",
+            "language": "CMake",
+            "bytes": 5419
+          },
+          {
+            "path": "linux/flutter/CMakeLists.txt",
+            "language": "CMake",
+            "bytes": 2815
+          },
+          {
+            "path": "linux/flutter/generated_plugin_registrant.cc",
+            "language": "C++",
+            "bytes": 754
+          },
+          {
+            "path": "linux/flutter/generated_plugin_registrant.h",
+            "language": "C",
+            "bytes": 303
+          },
+          {
+            "path": "linux/flutter/generated_plugins.cmake",
+            "language": "CMake",
+            "bytes": 786
+          },
+          {
+            "path": "linux/main.cc",
+            "language": "C++",
+            "bytes": 180
+          },
+          {
+            "path": "linux/my_application.cc",
+            "language": "C++",
+            "bytes": 4414
+          },
+          {
+            "path": "linux/my_application.h",
+            "language": "C",
+            "bytes": 388
+          },
+          {
+            "path": "macos/RunnerTests/RunnerTests.swift",
+            "language": "Swift",
+            "bytes": 290
+          },
+          {
+            "path": "ops/configure_local.py",
+            "language": "Python",
+            "bytes": 1302
+          },
+          {
+            "path": "ops/export_journal.py",
+            "language": "Python",
+            "bytes": 2945
+          },
+          {
+            "path": "ops/migrate_sqlite.py",
+            "language": "Python",
+            "bytes": 7202
+          },
+          {
+            "path": "ops/tests/test_operations.py",
+            "language": "Python",
+            "bytes": 5684
+          },
+          {
+            "path": "ops/verify_schema.py",
+            "language": "Python",
+            "bytes": 2814
+          },
+          {
+            "path": "web/index.html",
+            "language": "HTML",
+            "bytes": 529
+          },
+          {
+            "path": "web/src/App.tsx",
+            "language": "TypeScript",
+            "bytes": 6334
+          },
+          {
+            "path": "web/src/Auth.tsx",
+            "language": "TypeScript",
+            "bytes": 2913
+          },
+          {
+            "path": "web/src/Composer.tsx",
+            "language": "TypeScript",
+            "bytes": 1823
+          },
+          {
+            "path": "web/src/Entries.tsx",
+            "language": "TypeScript",
+            "bytes": 3676
+          },
+          {
+            "path": "web/src/WeekChart.tsx",
+            "language": "TypeScript",
+            "bytes": 2890
+          },
+          {
+            "path": "web/src/api.ts",
+            "language": "TypeScript",
+            "bytes": 1126
+          },
+          {
+            "path": "web/src/main.tsx",
+            "language": "TypeScript",
+            "bytes": 160
+          },
+          {
+            "path": "web/src/style.css",
+            "language": "CSS",
+            "bytes": 10235
+          },
+          {
+            "path": "web/vite.config.ts",
+            "language": "TypeScript",
+            "bytes": 193
+          }
+        ],
+        "branch": "feature/journal-dashboard"
+      }
+    },
+    {
+      "name": "Calendar-main",
+      "fork": false,
+      "languages": {
+        "C++": 13974
+      }
+    },
+    {
+      "name": "Create-Your-Blog-main",
+      "fork": false,
+      "languages": {
+        "JavaScript": 3238,
+        "EJS": 2255,
+        "CSS": 582
+      }
+    },
+    {
+      "name": "CSCI-331-Database-Systems",
+      "fork": false,
+      "languages": {
+        "Python": 105880,
+        "SQL": 34234,
+        "HTML": 37884,
+        "Shell": 5557,
+        "CSS": 1033
+      },
+      "local_review": {
+        "languages": {
+          "Python": 105880,
+          "SQL": 34234,
+          "HTML": 37884,
+          "Shell": 5557,
+          "CSS": 1033
+        },
+        "excluded": [
+          "Assignment02.html",
+          "Assignment03.html",
+          "Assignment04.html",
+          "Assignment05.html",
+          "Assignment06.html",
+          "Assignment07-restoration.html",
+          "Assignment07.html",
+          "Assignment09.html",
+          "Assignment10.html",
+          "Assignment12-fixed.html",
+          "Assignment12-variable.html",
+          "Assignment12.html",
+          "Assignment13-meta-query.html",
+          "Assignment13-sales-sale.html",
+          "Assignment13-university-instructor.html",
+          "Assignment13.html",
+          "Assignment14.html"
+        ],
+        "sources": [
+          {
+            "path": "Assignment02 2.py",
+            "language": "Python",
+            "bytes": 5069
+          },
+          {
+            "path": "Assignment02.py",
+            "language": "Python",
+            "bytes": 8325
+          },
+          {
+            "path": "Assignment03 2.py",
+            "language": "Python",
+            "bytes": 4830
+          },
+          {
+            "path": "Assignment03.py",
+            "language": "Python",
+            "bytes": 9678
+          },
+          {
+            "path": "Assignment04.py",
+            "language": "Python",
+            "bytes": 345
+          },
+          {
+            "path": "Assignment04.sql",
+            "language": "SQL",
+            "bytes": 2542
+          },
+          {
+            "path": "Assignment05.py",
+            "language": "Python",
+            "bytes": 340
+          },
+          {
+            "path": "Assignment05.sql",
+            "language": "SQL",
+            "bytes": 2123
+          },
+          {
+            "path": "Assignment06.py",
+            "language": "Python",
+            "bytes": 331
+          },
+          {
+            "path": "Assignment06.sql",
+            "language": "SQL",
+            "bytes": 3465
+          },
+          {
+            "path": "Assignment07.py",
+            "language": "Python",
+            "bytes": 1164
+          },
+          {
+            "path": "Assignment07.sql",
+            "language": "SQL",
+            "bytes": 1022
+          },
+          {
+            "path": "Assignment08.html",
+            "language": "HTML",
+            "bytes": 33103
+          },
+          {
+            "path": "Assignment09.py",
+            "language": "Python",
+            "bytes": 346
+          },
+          {
+            "path": "Assignment09.sql",
+            "language": "SQL",
+            "bytes": 7732
+          },
+          {
+            "path": "Assignment10.py",
+            "language": "Python",
+            "bytes": 354
+          },
+          {
+            "path": "Assignment10.sql",
+            "language": "SQL",
+            "bytes": 402
+          },
+          {
+            "path": "Assignment12.py",
+            "language": "Python",
+            "bytes": 1896
+          },
+          {
+            "path": "Assignment12.sql",
+            "language": "SQL",
+            "bytes": 256
+          },
+          {
+            "path": "Assignment13.py",
+            "language": "Python",
+            "bytes": 3412
+          },
+          {
+            "path": "Assignment13.sql",
+            "language": "SQL",
+            "bytes": 4215
+          },
+          {
+            "path": "Assignment14.py",
+            "language": "Python",
+            "bytes": 390
+          },
+          {
+            "path": "Assignment14.sql",
+            "language": "SQL",
+            "bytes": 8163
+          },
+          {
+            "path": "Assignment14_ComparePlans.sql",
+            "language": "SQL",
+            "bytes": 4314
+          },
+          {
+            "path": "DBUtil.py",
+            "language": "Python",
+            "bytes": 22906
+          },
+          {
+            "path": "OutputUtil 2.py",
+            "language": "Python",
+            "bytes": 10336
+          },
+          {
+            "path": "OutputUtil.py",
+            "language": "Python",
+            "bytes": 10336
+          },
+          {
+            "path": "auto_commit.py",
+            "language": "Python",
+            "bytes": 1715
+          },
+          {
+            "path": "capture_assignment14_plans.py",
+            "language": "Python",
+            "bytes": 2911
+          },
+          {
+            "path": "connect_github.sh",
+            "language": "Shell",
+            "bytes": 1147
+          },
+          {
+            "path": "create_historical_commits.py",
+            "language": "Python",
+            "bytes": 12146
+          },
+          {
+            "path": "index.html",
+            "language": "HTML",
+            "bytes": 4781
+          },
+          {
+            "path": "mystyle 2.css",
+            "language": "CSS",
+            "bytes": 515
+          },
+          {
+            "path": "mystyle.css",
+            "language": "CSS",
+            "bytes": 518
+          },
+          {
+            "path": "quick_connect.sh",
+            "language": "Shell",
+            "bytes": 1796
+          },
+          {
+            "path": "run_scheduler.py",
+            "language": "Python",
+            "bytes": 859
+          },
+          {
+            "path": "scripts/build_dashboard.py",
+            "language": "Python",
+            "bytes": 4503
+          },
+          {
+            "path": "setup_auto_commit.py",
+            "language": "Python",
+            "bytes": 3688
+          },
+          {
+            "path": "setup_github.sh",
+            "language": "Shell",
+            "bytes": 1178
+          },
+          {
+            "path": "start_auto_commit.sh",
+            "language": "Shell",
+            "bytes": 1436
+          }
+        ],
+        "branch": "feature/source-classification"
+      }
+    },
+    {
+      "name": "DeFacto",
+      "fork": false,
+      "languages": {
+        "R": 72816,
+        "Python": 42314
+      },
+      "local_review": {
+        "languages": {
+          "R": 72816,
+          "Python": 42314
+        },
+        "excluded": [],
+        "sources": [
+          {
+            "path": "Binary-MLP.R",
+            "language": "R",
+            "bytes": 7584
+          },
+          {
+            "path": "Binary-RF.R",
+            "language": "R",
+            "bytes": 4426
+          },
+          {
+            "path": "Binary-XGB.R",
+            "language": "R",
+            "bytes": 4120
+          },
+          {
+            "path": "Data_Preprocessing.R",
+            "language": "R",
+            "bytes": 17754
+          },
+          {
+            "path": "multi-MLP.R",
+            "language": "R",
+            "bytes": 8339
+          },
+          {
+            "path": "multi-RF.R",
+            "language": "R",
+            "bytes": 4417
+          },
+          {
+            "path": "multi-XGB.R",
+            "language": "R",
+            "bytes": 5079
+          },
+          {
+            "path": "src/defacto/__init__.py",
+            "language": "Python",
+            "bytes": 88
+          },
+          {
+            "path": "src/defacto/cli.py",
+            "language": "Python",
+            "bytes": 5630
+          },
+          {
+            "path": "src/defacto/compare.py",
+            "language": "Python",
+            "bytes": 1991
+          },
+          {
+            "path": "src/defacto/data.py",
+            "language": "Python",
+            "bytes": 5083
+          },
+          {
+            "path": "src/defacto/diagnostics.py",
+            "language": "Python",
+            "bytes": 4052
+          },
+          {
+            "path": "src/defacto/explain.py",
+            "language": "Python",
+            "bytes": 2284
+          },
+          {
+            "path": "src/defacto/model.py",
+            "language": "Python",
+            "bytes": 7180
+          },
+          {
+            "path": "src/defacto/report.py",
+            "language": "Python",
+            "bytes": 3797
+          },
+          {
+            "path": "src/defacto/store.py",
+            "language": "Python",
+            "bytes": 3760
+          },
+          {
+            "path": "tests/test_workflow.py",
+            "language": "Python",
+            "bytes": 8449
+          },
+          {
+            "path": "three-MLP.R",
+            "language": "R",
+            "bytes": 9222
+          },
+          {
+            "path": "three-RF.R",
+            "language": "R",
+            "bytes": 4524
+          },
+          {
+            "path": "three-XGB.R",
+            "language": "R",
+            "bytes": 4662
+          },
+          {
+            "path": "webscrapping.R",
+            "language": "R",
+            "bytes": 2689
+          }
+        ],
+        "branch": "feature/python-reporting"
+      }
+    },
+    {
+      "name": "Dicee-main",
+      "fork": false,
+      "languages": {
+        "HTML": 898,
+        "CSS": 883,
+        "JavaScript": 744
+      }
+    },
+    {
+      "name": "Dicee2-main",
+      "fork": false,
+      "languages": {
+        "Swift": 4832
+      }
+    },
+    {
+      "name": "Diversity-Inclusion-App-main",
+      "fork": false,
+      "languages": {
+        "Java": 11153
+      }
+    },
+    {
+      "name": "Drawing-Shapes-main",
+      "fork": false,
+      "languages": {
+        "C++": 4163
+      }
+    },
+    {
+      "name": "Get-Your-Weather-main",
+      "fork": false,
+      "languages": {
+        "CSS": 1395,
+        "JavaScript": 956,
+        "HTML": 891
+      }
+    },
+    {
+      "name": "Guess-The-Number-main",
+      "fork": false,
+      "languages": {
+        "C++": 1226
+      }
+    },
+    {
+      "name": "gulmohar-education-1",
+      "fork": false,
+      "languages": {
+        "JavaScript": 13356
+      }
+    },
+    {
+      "name": "HackCOVID-master",
+      "fork": false,
+      "languages": {
+        "HTML": 136573,
+        "CSS": 14469,
+        "JavaScript": 636
+      }
+    },
+    {
+      "name": "I-Am-Rich-main",
+      "fork": false,
+      "languages": {
+        "Swift": 7302
+      }
+    },
+    {
+      "name": "JukeBox-App-main",
+      "fork": false,
+      "languages": {
+        "Java": 7773
+      }
+    },
+    {
+      "name": "Magic-8-Ball-main",
+      "fork": false,
+      "languages": {
+        "Swift": 4733
+      }
+    },
+    {
+      "name": "March-Madness-App-main",
+      "fork": false,
+      "languages": {
+        "Java": 7802
+      }
+    },
+    {
+      "name": "markdown-editor",
+      "fork": false,
+      "languages": {
+        "HTML": 674,
+        "JavaScript": 645,
+        "CSS": 562,
+        "Python": 312,
+        "Dockerfile": 105
+      }
+    },
+    {
+      "name": "Newsletter-Server-main",
+      "fork": false,
+      "languages": {
+        "HTML": 7616,
+        "JavaScript": 1655,
+        "CSS": 655,
+        "Procfile": 16
+      }
+    },
+    {
+      "name": "PayPie",
+      "fork": false,
+      "languages": {
+        "TypeScript": 97544,
+        "CSS": 566,
+        "JavaScript": 308
+      }
+    },
+    {
+      "name": "Rescue-The-SpaceShip-main",
+      "fork": false,
+      "languages": {}
+    },
+    {
+      "name": "Simon-Game-main",
+      "fork": false,
+      "languages": {
+        "JavaScript": 1844,
+        "HTML": 937,
+        "CSS": 873
+      }
+    },
+    {
+      "name": "Talk-Licious",
+      "fork": false,
+      "languages": {
+        "JavaScript": 10419,
+        "CSS": 2681,
+        "HTML": 1471
+      }
+    },
+    {
+      "name": "Tic-Tac-Toe-main",
+      "fork": false,
+      "languages": {
+        "C++": 18093
+      }
+    },
+    {
+      "name": "To-Do-List",
+      "fork": false,
+      "languages": {
+        "CSS": 1440,
+        "JavaScript": 1346,
+        "EJS": 920
+      }
+    },
+    {
+      "name": "Tree-Set-Cplus",
+      "fork": false,
+      "languages": {
+        "C++": 4433
+      }
+    },
+    {
+      "name": "Unistroke-Character-Recognition",
+      "fork": false,
+      "languages": {}
+    },
+    {
+      "name": "Vehicle-Repair-App",
+      "fork": false,
+      "languages": {
+        "Java": 22726
+      }
+    },
+    {
+      "name": "Voluntr",
+      "fork": false,
+      "languages": {
+        "Swift": 171846
+      }
+    },
+    {
+      "name": "zohaib-cheema",
+      "fork": false,
+      "languages": {
+        "Python": 33553
+      },
+      "local_review": {
+        "languages": {
+          "Python": 33553
+        },
+        "excluded": [],
+        "sources": [
+          {
+            "path": "tests/test_portfolio_tools.py",
+            "language": "Python",
+            "bytes": 8165
+          },
+          {
+            "path": "tools/calendar_preview.py",
+            "language": "Python",
+            "bytes": 12128
+          },
+          {
+            "path": "tools/portfolio_audit.py",
+            "language": "Python",
+            "bytes": 13260
+          }
+        ],
+        "branch": "feature/portfolio-refresh"
+      }
+    },
+    {
+      "name": "Zork-Java",
+      "fork": false,
+      "languages": {
+        "Java": 14250
+      }
+    }
+  ],
+  "notes": [
+    "Source volume is not a measure of skill or contribution quality.",
+    "Generated and vendored files follow repository attributes.",
+    "Local extension based estimates can differ from GitHub Linguist detection."
+  ]
+}
